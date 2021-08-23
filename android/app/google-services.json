@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072444602599",
+    "project_id": "cmsy-c303a",
+    "storage_bucket": "cmsy-c303a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072444602599:android:ab57bf7ec62bfd54df4a42",
+        "android_client_info": {
+          "package_name": "com.lovepreetsingh.ace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072444602599-g2clqoocm359515mlgsjjrpf88q3mi23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwnPItl_ux4UXAXP7CsbdrAONRLp9vNQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072444602599-g2clqoocm359515mlgsjjrpf88q3mi23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
